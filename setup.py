@@ -10,7 +10,7 @@ setup(
     url='https://github.com/rem7/GithubUsers',
     license='LICENSE.txt',
     description="Add a team's user ssh keys to a global user",
-    long_description=open('README.md').read(),
+    long_description=open('README.txt').read(),
     install_requires=[
         "requests>=2.2.1",
     ],
